@@ -603,7 +603,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #fd9042;
+  background: #C42443;
   margin: 4px 10px;
 }
 
@@ -837,7 +837,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #fedac0;
+  color: #bf455d;
   font-size: 26px;
 }
 
@@ -915,7 +915,7 @@ section {
   border-radius: 50px;
   width: 36px;
   height: 36px;
-  background: rgba(239, 102, 3, 0.8);
+  background: #C42443;
   transition: ease-in-out 0.3s;
   color: #fff;
   display: inline-flex;
